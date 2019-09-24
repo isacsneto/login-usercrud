@@ -5,3 +5,4 @@ The live app is on heroku at https://calm-basin-45764.herokuapp.com/login.xhtml 
 
 To make it run locally you need to configure persistance.xml to your database(i recommend hsqlb) credentials.
 After that, you can use Tomcat v8.5 to make it run on http://localhost:8080/br.com.pitang/login.xhtml
+you can access the app with "admin@admin.com" as user and "admin123" as password.
